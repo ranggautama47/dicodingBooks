@@ -45,6 +45,7 @@ Build Tools
 ---
 
 dicoding-books/
+
 ├── src/
 
 │ ├── index.html # Main HTML template
@@ -57,7 +58,7 @@ dicoding-books/
 
 │ └── styles/
 
-│ └── main.css          # Custom styling
+│   └── main.css          # Custom styling
 
 ├── webpack.common.js   # Shared webpack configuration
 
