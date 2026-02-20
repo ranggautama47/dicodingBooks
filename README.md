@@ -43,7 +43,7 @@ Build Tools
 
 📁 Project Structure
 ---
-
+```
 dicoding-books/
 
 ├── src/
@@ -71,7 +71,7 @@ dicoding-books/
 ├── package-lock.json # Detailed notes on each dependency version
 
 └── README.md # Project documentation
-
+```
 
 🚀 How to Run Installation Bash
 --
